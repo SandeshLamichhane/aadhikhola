@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aadhikhola/static/css/main.d80c0401.css",
+    "main.js": "/aadhikhola/static/js/main.d9ba1ed4.js",
+    "static/js/787.71b2967c.chunk.js": "/aadhikhola/static/js/787.71b2967c.chunk.js",
+    "index.html": "/aadhikhola/index.html",
+    "main.d80c0401.css.map": "/aadhikhola/static/css/main.d80c0401.css.map",
+    "main.d9ba1ed4.js.map": "/aadhikhola/static/js/main.d9ba1ed4.js.map",
+    "787.71b2967c.chunk.js.map": "/aadhikhola/static/js/787.71b2967c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80c0401.css",
+    "static/js/main.d9ba1ed4.js"
+  ]
+}
